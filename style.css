@@ -1,0 +1,81 @@
+* {
+  text-align: center;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 600px;
+  background-image: url("https://i0.wp.com/cdn.clickwallpapers.net/images/clickwallpapers-checkers-damas-img1.jpg?w=958&ssl=1");
+  background-color: #111;
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+  
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+
+table {
+  border: 7px solid yellowgreen;
+  border-collapse: collapse;
+	background: black;
+	}
+}
+
+h1 {
+  color: yellowgreen;
+  font-size: 100px;
+  font-style: oblique;
+}
+
+th,
+tr,
+td {
+  border: solid 4px yellowgreen;
+  color: white;
+  font-style: oblique;
+  font-size: 25px;
+}
+
+button {
+background: #0066A2;
+color: white;
+border-style: outset;
+border-color: #0066A2;
+height: 40px;
+width: 90px;
+font: bold15px arial,sans-serif;
+text-shadow: none;
+}
+
+body {
+  font-size: 16px;
+  font-family: oblique,sans-serif,verdana;
+  color: blue;
+}
